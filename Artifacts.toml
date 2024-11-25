@@ -1,0 +1,135 @@
+[[MONA]]
+arch = "aarch64"
+git-tree-sha1 = "44a063a8e2ec8a635e7b27cd81e12a7f6069aeea"
+os = "macos"
+
+    [[MONA.download]]
+    sha256 = "38a270a0545c7e4c80b8559b42aff2142f1a2464b6177d9213c8d0d95361e171"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.aarch64-apple-darwin.tar.gz"
+[[MONA]]
+arch = "aarch64"
+git-tree-sha1 = "3339c41f407ed953e32ea7ed6b6ef21d0f0e87dc"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "53729aee054c2d366cf1244a0838670f0c264f7679ad2dde19b8a2065808d606"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.aarch64-linux-gnu.tar.gz"
+[[MONA]]
+arch = "aarch64"
+git-tree-sha1 = "96851d452947a292492c82ad123a64f5009022e2"
+libc = "musl"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "c09d1118987f2663f535eb1863b9dd8a0d184bbf260d6acf70e4150fbfa69e08"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.aarch64-linux-musl.tar.gz"
+[[MONA]]
+arch = "aarch64"
+git-tree-sha1 = "5442bac6985e1ecb524e1db7f4b19d8deceaa486"
+os = "freebsd"
+
+    [[MONA.download]]
+    sha256 = "2c6d5db77a569669ae0f775be779ec33f9c07856e2e949b73547df4bb876d555"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.aarch64-unknown-freebsd.tar.gz"
+[[MONA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d1ab269930cff6849f460d7191d7a8dc5fc818d"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "58667a5bbb4f67f5b67e823104748e5484e9b109b950500e956c9122c925f19e"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.armv6l-linux-gnueabihf.tar.gz"
+[[MONA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b54d177f6b6e618be2f1ccd285df24f76fba458"
+libc = "musl"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "3e2f9fc90ba220ed5753efd99c6072538370bb793fa6628d6aee786b8b1333a3"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.armv6l-linux-musleabihf.tar.gz"
+[[MONA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "63e4c922697f900a1ccce32a9c9eb1921bad82eb"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "74f22446b6b65aa417e10fe9a2a122f83b6686c4937c4f25f3a243734a52dded"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.armv7l-linux-gnueabihf.tar.gz"
+[[MONA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "13555fcd65e2885b26c6ef3476205cf0e5e01c20"
+libc = "musl"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "0450ebaeeac5d9ef56c03d8b13469401caff79c473a69a9a81e67df2cd43baf8"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.armv7l-linux-musleabihf.tar.gz"
+[[MONA]]
+arch = "i686"
+git-tree-sha1 = "ec43ec47baf116799fef090d5bb16524e343188e"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "0b2955b9c77f6f2fdff8a18af296d72615ca12e578a9005d54a239b498c31089"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.i686-linux-gnu.tar.gz"
+[[MONA]]
+arch = "i686"
+git-tree-sha1 = "b140a6418c67a58c3706c67c3b520b400a8ee52b"
+libc = "musl"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "d413d3ab371ed84a27fff9f6555964a9e0a41340584ec5679f75a1f661ab58a9"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.i686-linux-musl.tar.gz"
+[[MONA]]
+arch = "powerpc64le"
+git-tree-sha1 = "9ab0a5f49642b437701bb9c940d5622aa2a3d91d"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "fc0d305b2e1c0b3fc066d9ced07e6a28dad30ff89d15855ac9409da3b3341640"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.powerpc64le-linux-gnu.tar.gz"
+[[MONA]]
+arch = "x86_64"
+git-tree-sha1 = "6f3e8cd663be0a8cf1ca59bec6bfd65a7569d0fe"
+os = "macos"
+
+    [[MONA.download]]
+    sha256 = "2d2ea3989545bc9be682addda98bac415111879cdeac7d4896bd76ba80e18b10"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.x86_64-apple-darwin.tar.gz"
+[[MONA]]
+arch = "x86_64"
+git-tree-sha1 = "cc4bffb0279ab8976be3e4aec3eb77e8c37978d6"
+libc = "glibc"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "a47e5f326b765e5c3705c0bc34d6ee7d84c323336eb152597b3fbc1a84d2ddbe"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.x86_64-linux-gnu.tar.gz"
+[[MONA]]
+arch = "x86_64"
+git-tree-sha1 = "195f0e02a72cf887beed8892c7c927a66845070c"
+libc = "musl"
+os = "linux"
+
+    [[MONA.download]]
+    sha256 = "8373a5e37494087eda59bffbff45ab0a7b457c13563e2a3a683a82f7dfc927a7"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.x86_64-linux-musl.tar.gz"
+[[MONA]]
+arch = "x86_64"
+git-tree-sha1 = "cadf42d5227615a528640b9bb9c9e61083543e0b"
+os = "freebsd"
+
+    [[MONA.download]]
+    sha256 = "59519300d29e41aa99be3abd54963a5ee69e3ab60e5d95a20becad050d48dff5"
+    url = "https://github.com/JuliaBinaryWrappers/MONA_jll.jl/releases/download/MONA-v1.4.18+0/MONA.v1.4.18.x86_64-unknown-freebsd.tar.gz"
